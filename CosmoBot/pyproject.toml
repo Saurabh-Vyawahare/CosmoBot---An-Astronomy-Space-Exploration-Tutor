@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cosmobot"
+version = "0.1.0"
+description = ""
+authors = ["SaurabhVyawahare <thelenstriangle@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pip = "^24.3.1"
+openai = "^1.56.1"
+streamlit = "^1.40.2"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
