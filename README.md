@@ -1,4 +1,4 @@
-CosmoBot - An Astronomy & Space Exploration Tutor
+# CosmoBot - An Astronomy & Space Exploration Tutor
 (Replace this with an actual banner if you want)
 
 Welcome to CosmoBot, your friendly AI-powered tutor that helps you explore the wonders of Astronomy and Space Exploration. CosmoBot is an interactive chatbot that can answer your questions about space, guide you through complex concepts step-by-step, and even help you prepare for exams.
